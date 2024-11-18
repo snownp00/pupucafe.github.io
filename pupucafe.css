@@ -1,0 +1,87 @@
+body {
+    background-image: url(https://cdn.vectorstock.com/i/500p/20/86/seamless-background-with-cute-poo-cartoon-vector-11822086.jpg); 
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.menu {
+    background-color: burlywood; 
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+    max-width: 500px;
+}
+
+.established {
+    font-style: italic
+}
+
+h1, h2, p {
+    text-align: center;
+    
+}
+
+h1, h2{
+    font-family: Impact;
+}
+
+
+.item p {
+    display: inline-block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 18px;
+    
+}
+
+.flavor, .dessert {
+    text-align: left;
+    width: 90%;
+}
+
+.price {
+    text-align: right;
+    width: 10%;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+img {
+    display: block;
+    margin: auto; 
+    }
+
+
+/* footer */
+
+a {
+   color: black; 
+}
+
+a:hover {
+    color:crimson;
+}
+
+/* a:visited {
+    color: black;
+} */
+
+
+a:active {
+    color: brown;
+}
+
+footer {
+    font-size: 14px;
+}
